@@ -10,3 +10,5 @@ Your task is to implement a custom validation mechanism for the user profile dat
 5. 	The workExperience field is optional, but if present, it must be a list of valid work experience entries (e.g., "Software Engineer at XYZ Inc., 2015-2020").
 If any of the validation rules fail, the RESTful endpoint should return an appropriate error message.
 You can assume that the user profile data is submitted as a JSON object in the request body.
+
+#Note: You find in folder /images screenshots of the most importand functionalities asked here.
